@@ -1,4 +1,3 @@
-# ☕ Fundamentos de Java para Principiantes
 
 <div align="center">
 
