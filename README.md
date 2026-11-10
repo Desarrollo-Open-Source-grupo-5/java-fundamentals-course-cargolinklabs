@@ -127,32 +127,32 @@ Cada lección incluye su código fuente y espacio para incorporar el video corre
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Herramienta de desarrollo
 
-Este proyecto utiliza herramientas accesibles para aprender, desarrollar, grabar y compartir código.
+Durante todo el curso utilizaremos una única plataforma para escribir, ejecutar, probar y depurar nuestros programas en Java.
 
 <div align="center">
 
-| Tecnología | Utilización |
-|---|---|
-| ![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white) | Lenguaje de programación |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Control de versiones y repositorio |
-| ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white) | Desarrollo y ejecución online |
-| ![JDoodle](https://img.shields.io/badge/JDoodle-Online%20IDE-blue?style=flat-square) | Ejecución de ejemplos Java |
-| ![OnlineGDB](https://img.shields.io/badge/OnlineGDB-Debugger-green?style=flat-square) | Programación con múltiples archivos |
-| ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white) | Publicación de videos educativos |
-| ![OBS](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white) | Grabación de pantalla |
-| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) | Diseño de recursos visuales |
+### ☕ OnlineGDB — Online Java Compiler
+
+<a href="https://www.onlinegdb.com/online_java_compiler">
+  <img src="https://img.shields.io/badge/OnlineGDB-Abrir%20compilador-2F80ED?style=for-the-badge&logo=java&logoColor=white" alt="OnlineGDB">
+</a>
+
+**[Ingresar al compilador de Java](https://www.onlinegdb.com/online_java_compiler)**
 
 </div>
 
-### 🌐 Editores de Java online
+### ¿Qué podemos hacer con OnlineGDB?
 
-No necesitas configurar un entorno de desarrollo local.
+- ✍️ Escribir y editar código Java desde el navegador.
+- ▶️ Compilar y ejecutar nuestros programas.
+- 🐞 Depurar programas para identificar errores.
+- 🔍 Observar la ejecución paso a paso.
+- 📊 Revisar variables y puntos de interrupción.
+- 💻 Practicar sin instalar un entorno de desarrollo local.
 
-- [Replit](https://replit.com/) — Editor principal del curso.
-- [JDoodle](https://www.jdoodle.com/online-java-compiler/) — Compilador online para ejemplos rápidos.
-- [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) — Editor con depuración y soporte para múltiples archivos.
+**Importante:** Todos los ejercicios, ejemplos y actividades prácticas del curso se desarrollarán utilizando OnlineGDB.
 
 ---
 
