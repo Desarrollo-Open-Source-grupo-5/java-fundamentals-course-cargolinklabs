@@ -1,8 +1,8 @@
 # Lección 06 · Métodos y reutilización
 
-**Duración** · 6 min  
-**Diapositiva** · 12  
-**Video** · Pendiente de enlace
+**Duración** · 9 min 33 s
+**Diapositiva** · 12
+**Video** · [Ver en YouTube](https://youtu.be/ZCcfhX2RsE0)
 
 ## Objetivo
 
@@ -14,8 +14,6 @@ Definir parámetros, llamar métodos y devolver valores con return.
 - [CalculadoraMetodos.java](CalculadoraMetodos.java)
 
 Abre [OnlineGDB](https://www.onlinegdb.com/online_java_compiler), crea los archivos del ejemplo y selecciona la clase que contiene el método `main`. Si el editor exige `Main.java`, en un ejemplo de un solo archivo puedes renombrar temporalmente la clase principal a `Main`. En ejemplos de varios archivos conserva un archivo por clase.
-
-
 
 Para ejecutar en local, abre una terminal en esta carpeta.
 
