@@ -285,6 +285,8 @@ NRC: **7729** · Período: **2026-20**
 
 El proyecto se desarrolla mediante Git y GitHub, utilizando ramas individuales, commits descriptivos y Pull Requests para integrar los aportes del equipo.
 
+Consulta las [ramas asignadas](docs/participacion.md) y la [guía de contribución](CONTRIBUTING.md).
+
 ---
 
 ## 📈 Filosofía de aprendizaje
