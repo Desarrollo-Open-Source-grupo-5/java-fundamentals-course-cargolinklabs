@@ -8,7 +8,7 @@ Write your code in this editor and press "Run" button to execute it.
 
 import Dog.Perro;
 
-public class Main
+public class Main_L8
 {
 	public static void main(String[] args) {
 	    Perro luna = new Perro("Luna", 5, "caniche");

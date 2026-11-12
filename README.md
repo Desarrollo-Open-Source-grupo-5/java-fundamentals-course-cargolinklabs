@@ -69,28 +69,28 @@ La ruta se divide en **fundamentos** (1–3), **control de flujo** (4–6) y **e
 - **Descripción** — Lee datos que escribe el usuario y muestra un resumen en consola.
 - **Video** — [Ver la lección en YouTube](https://youtu.be/95yDCkvMk1A).
 - **Qué aprenderás** — `nextLine()` lee una línea completa. `nextInt()` y `nextDouble()` leen números.
-- **Práctica** — Lee un nombre, una edad y una estatura y muestra los tres datos. [Código y guía](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-07-08/lessons/lesson-07-scanner/) · [Abrir editor Java](https://www.onlinegdb.com/online_java_compiler).
+- **Práctica** — Lee un nombre, una edad y una estatura y muestra los tres datos. [Código y guía](lessons/lesson-07-scanner/) · [Abrir editor Java](https://www.onlinegdb.com/online_java_compiler).
 
 ### Lección 8 · Clases, objetos y constructores (6:10)
 
 - **Descripción** — Representa una mascota con atributos, un constructor y un método.
 - **Video** — [Ver la lección en YouTube](https://youtu.be/Fh1-v7lX85s).
 - **Qué aprenderás** — La clase define los datos y el comportamiento. `new` crea una instancia con su propio estado.
-- **Práctica** — Crea dos mascotas con datos distintos y muestra su presentación. [Código y guía](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-07-08/lessons/lesson-08-clases-objetos/) · [Abrir editor Java](https://www.onlinegdb.com/online_java_compiler).
+- **Práctica** — Crea dos mascotas con datos distintos y muestra su presentación. [Código y guía](lessons/lesson-08-clases-objetos/) · [Abrir editor Java](https://www.onlinegdb.com/online_java_compiler).
 
 ### Lección 9 · Encapsulación, getters y setters (8:15)
 
 - **Descripción** — Protege el saldo de una cuenta y valida las operaciones que lo modifican.
 - **Video** — [Ver la lección en YouTube](https://youtu.be/YdSRAi8mRyg).
 - **Qué aprenderás** — `private` limita el acceso directo a los atributos. Los métodos públicos controlan las consultas y los cambios.
-- **Práctica** — Prueba un depósito, un retiro válido y otro mayor al saldo disponible. [Código y guía](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-09-10/lessons/lesson-09-encapsulacion/) · [Abrir proyecto precargado](https://onlinegdb.com/5qz6c_n6I).
+- **Práctica** — Prueba un depósito, un retiro válido y otro mayor al saldo disponible. [Código y guía](lessons/lesson-09-encapsulacion/) · [Abrir proyecto precargado](https://onlinegdb.com/5qz6c_n6I).
 
 ### Lección 10 · Proyecto práctico y buenas prácticas (14:20)
 
 - **Descripción** — Construye un registro de notas para calcular el promedio y consultar el estado de un estudiante.
 - **Video** — [Ver la lección en YouTube](https://youtu.be/a4WN0YVYjRE).
 - **Qué aprenderás** — Un arreglo guarda las notas. El menú combina `Scanner`, `while`, `switch` y métodos de la clase `Estudiante`.
-- **Práctica** — Registra 12 y 16, comprueba que el promedio sea 14 y prueba una nota inválida. [Código y guía](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-09-10/lessons/lesson-10-proyecto-final/) · [Abrir proyecto precargado](https://onlinegdb.com/Stt7aQaTs).
+- **Práctica** — Registra 12 y 16, comprueba que el promedio sea 14 y prueba una nota inválida. [Código y guía](lessons/lesson-10-proyecto-final/) · [Abrir proyecto precargado](https://onlinegdb.com/Stt7aQaTs).
 
 ## Recursos adicionales
 
@@ -101,18 +101,18 @@ La ruta se divide en **fundamentos** (1–3), **control de flujo** (4–6) y **e
 
 ### Actividades prácticas
 
-| Lección | Actividad | Empezar a programar |
-| ---: | --- | --- |
-| 1 | Personaliza Hola Mundo con tu saludo y tu ciudad. | [Plantilla](starter-files/lesson-01-intro/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 2 | Completa una ficha y calcula cuántos equipos de cuatro se forman con 17 personas. | [Plantilla](starter-files/lesson-02-variables/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 3 | Calcula el ahorro y el precio final de una compra de S/ 100 con 20 % de descuento. | [Plantilla](starter-files/lesson-03-operadores/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 4 | Prueba un intento menor, igual y mayor que el número secreto. | [Plantilla](starter-files/lesson-04-if-else/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 5 | Imprime la tabla del 7 del 1 al 10 con `for` y después con `while`. | [Plantilla](starter-files/lesson-05-bucles/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 6 | Implementa un método para calcular el área de un triángulo y pruébalo con dos entradas. | [Plantilla](starter-files/lesson-06-metodos/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 7 | Lee un nombre, una edad y una estatura y muestra los tres datos. | [Plantilla](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-07-08/starter-files/lesson-07-scanner/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 8 | Crea dos mascotas con datos distintos y muestra su presentación. | [Plantilla](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-07-08/starter-files/lesson-08-clases-objetos/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
-| 9 | Prueba un depósito, un retiro válido y otro mayor al saldo disponible. | [Plantilla](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-09-10/starter-files/lesson-09-encapsulacion/) · [Proyecto precargado](https://onlinegdb.com/5qz6c_n6I) |
-| 10 | Registra 12 y 16, comprueba que el promedio sea 14 y prueba una nota inválida. | [Plantilla](https://github.com/Desarrollo-Open-Source-grupo-5/java-fundamentals-course-cargolinklabs/tree/lecciones-09-10/starter-files/lesson-10-proyecto-final/) · [Proyecto precargado](https://onlinegdb.com/Stt7aQaTs) |
+| Lección | Actividad                                                                               | Empezar a programar                                                                                                  |
+| ------: | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+|       1 | Personaliza Hola Mundo con tu saludo y tu ciudad.                                       | [Plantilla](starter-files/lesson-01-intro/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)          |
+|       2 | Completa una ficha y calcula cuántos equipos de cuatro se forman con 17 personas.       | [Plantilla](starter-files/lesson-02-variables/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)      |
+|       3 | Calcula el ahorro y el precio final de una compra de S/ 100 con 20 % de descuento.      | [Plantilla](starter-files/lesson-03-operadores/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)     |
+|       4 | Prueba un intento menor, igual y mayor que el número secreto.                           | [Plantilla](starter-files/lesson-04-if-else/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)        |
+|       5 | Imprime la tabla del 7 del 1 al 10 con `for` y después con `while`.                     | [Plantilla](starter-files/lesson-05-bucles/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)         |
+|       6 | Implementa un método para calcular el área de un triángulo y pruébalo con dos entradas. | [Plantilla](starter-files/lesson-06-metodos/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)        |
+|       7 | Lee un nombre, una edad y una estatura y muestra los tres datos.                        | [Plantilla](starter-files/lesson-07-scanner/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler)        |
+|       8 | Crea dos mascotas con datos distintos y muestra su presentación.                        | [Plantilla](starter-files/lesson-08-clases-objetos/) · [Editor Java](https://www.onlinegdb.com/online_java_compiler) |
+|       9 | Prueba un depósito, un retiro válido y otro mayor al saldo disponible.                  | [Plantilla](starter-files/lesson-09-encapsulacion/) · [Proyecto precargado](https://onlinegdb.com/5qz6c_n6I)         |
+|      10 | Registra 12 y 16, comprueba que el promedio sea 14 y prueba una nota inválida.          | [Plantilla](starter-files/lesson-10-proyecto-final/) · [Proyecto precargado](https://onlinegdb.com/Stt7aQaTs)        |
 
 ### Cuestionario de evaluación
 
@@ -149,6 +149,15 @@ La ruta se divide en **fundamentos** (1–3), **control de flujo** (4–6) y **e
 - **Curso** 1ASI0729 Desarrollo de Aplicaciones Open Source · **NRC** 7729
 - **Período** 202620 · **Entrega** Semana 12
 - **Equipo** CargolinkLabs
+- **Producto:** Fundamentos de Java para Principiantes
+- **Team Leader:** Ismael Sebastian Simon Calderon
+- **Integrantes:**
+  - Noriega Collado, Jean Fabio — Lecciones 01 y 02.
+  - Rivas Castillo, Christopher Steven — Lecciones 03 y 04.
+  - Simon Calderon, Ismael Sebastian — Lecciones 05 y 06.
+  - Collantes Artola, Marco Antonio — Lecciones 07 y 08.
+  - Benigno Montero, Harold Fauskorp — Lecciones 09 y 10.
+- **Fecha:** 12 de noviembre de 2026.
 
 El equipo distribuyó las diez lecciones en cinco aportes de dos lecciones. La coordinación organizó la secuencia, los ejemplos y las actividades. El [registro de participación](docs/participacion.md) muestra cómo se organizan los aportes en GitHub.
 
