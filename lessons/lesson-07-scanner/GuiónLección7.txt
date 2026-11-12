@@ -1,0 +1,16 @@
+Lección 7:
+
+En las lecciones anteriores aprendieron a hacer procesos con datos internos ya existentes, pero ¿qué pasará cuando quieran trabajar con datos que deban ser ingresados de antemano?
+Para ello les enseñaré a utilizar una herramienta conocida como Scanner que permite leer datos externos y registrarlos dentro del sistema.  
+
+Empezamos escribiendo la palabra clave import para agregar el componente externo Scanner por medio de la extensión java.util.Scanner, 
+una vez hecho esto pasamos a declarar una variable Scanner dentro de main a la que llamaremos sc y por medio de System.in podremos habilitar la entrada de datos en el cóigo.
+
+Para este ejemplo vamos a similar una conversación entre el código y el usuario del mismo, creando primero una salida de datos donde pregunta por el nombre del usuario (procede a escribir el código),
+ahora creamos una variable para el nombre basada en String, y para asignarle un valor recurrimos al scanner sc con la siguiente extensión para reconocer el texto. (escribe y haz corre el código)
+Podemos ver que se despliega el inicio de la conversación en el compilador, y aquí aparece el cursor para introducir el nombre que queramos. El código cerrará por completo al terminar de escribir la variable.
+
+Para otros tipos de datos haremos que el código pregunte por la edad del usuario, de una forma parecida a como hizo para preguntar el nombre (escribe el código mientras narra)
+En este caso declaramos una variable edad como un int, y utilizaremos la extensión de scanner nextInt para reconocer el tipo de número. (escribe y vuelve a correr)
+
+Una vez dominen este tipo de códigos podrán crear aplicaciones más completas, tales como la calculadora de los ejercicios, y mucho más a su gusto.

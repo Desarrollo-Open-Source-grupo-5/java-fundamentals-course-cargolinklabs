@@ -1,0 +1,16 @@
+Lección 8:
+
+Alrededor de todos nosotros podemos encontrar varios objetos y personas, cada uno con sus propias caracteristicas que pueden compartir o no con otro cercano, 
+y en esta lección aprenderemos como crear un equivalente digital a uno de estos utilizando código java, por medio de la programación orientada a objetos o OOP por sus siglas en inglés.
+
+(Trabaja mientras narras) Abrimos entonces nuestro compilador de código, y dentro de este mismo crearemos un nuevo archivo que servirá como una clase externa de nuestro main, y la usaremos para crear una clase que represente un perro.
+En este nuevo archivo primero lo etiquetaremos como un nuevo paquete con la palabra clave package (procede a escribir el código con el nombre), y bajo el mismo crearemos una clase pública similar a la de main pero llamada Perro. 
+Ya dentro de sus llaves definimos variables vacías que representarán las caracteristicas propias de este objeto, dígase su nombre, edad, y en este caso su raza, mas para poder darle un valor real debemos incluir un constructor, que incluirá todos estas variables de la siguiente forma (escribe el constructor en pantalla)
+Ahora procederemos a asignar los valores de este constructor para que tomen el lugar de las caracteristicas del objeto que creamos, utilizando la palabra clave this para facilitar la conversión. 
+
+(Cambiamos a main) Toca entonces declarar la clase externa que creamos en nuestro código principal, utilizando import para darle acceso a la clase dentro de nuestro package externo (escribe las líneas de código).
+Ya dentro de las llaves de main podremos crear el código necesario para crear un nuevo objeto, declarandolo primero mediante el nombre de la clase externa y el comando new, (escribe el código mientras narras) 
+y dentro de ese new escribimos el constructor de la clase con los datos correspondientes del código, es importante no confundirse con el orden de los datos o tendrán errores.
+
+Si al compilarlo no experimentan errores significa que habrán creado un objeto perfectamente, y con algunas modificaciones internas podrán darle a esta clase todo tipo de funciones para modificar o extraer la data que necesitan en sus proyectos.
+   
