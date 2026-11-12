@@ -273,13 +273,13 @@ Al completar las diez lecciones, puedes continuar con:
 Curso: **1ASI0729 – Desarrollo de Aplicaciones Open Source**  
 NRC: **7729** · Período: **2026-20**
 
-| Integrante | Responsabilidad |
-|---|---|
-| Noriega Collado, Jean Fabio | Lecciones 1 y 2 |
-| Rivas Castillo, Christoper Steven | Lecciones 3 y 4 |
-| Simon Calderon, Ismael Sebastian | Lecciones 5 y 6 |
-| Collantes Artola, Marco Antonio | Lecciones 7 y 8 |
-| Benigno Montero, Harold Fauskorp | Lecciones 9 y 10 |
+| Lecciones | Rama |
+| --- | --- |
+| 1 y 2 | `lecciones-01-02` |
+| 3 y 4 | `lecciones-03-04` |
+| 5 y 6 | `lecciones-05-06` |
+| 7 y 8 | `lecciones-07-08` |
+| 9 y 10 | `lecciones-09-10` |
 
 ### 🤝 Trabajo colaborativo
 
