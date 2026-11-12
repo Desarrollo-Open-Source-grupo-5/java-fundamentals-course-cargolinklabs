@@ -114,16 +114,16 @@ Cada lección incluye su código fuente y espacio para incorporar el video corre
 
 | Lección | Código fuente | Video |
 |---|---|---|
-| 01 | [`lesson-01-intro`](lessons/lesson-01-intro/) | 🔗 Pendiente |
-| 02 | [`lesson-02-variables`](lessons/lesson-02-variables/) | 🔗 Pendiente |
-| 03 | [`lesson-03-operadores`](lessons/lesson-03-operadores/) | 🔗 Pendiente |
-| 04 | [`lesson-04-if-else`](lessons/lesson-04-if-else/) | 🔗 Pendiente |
-| 05 | [`lesson-05-bucles`](lessons/lesson-05-bucles/) | 🔗 Pendiente |
-| 06 | [`lesson-06-metodos`](lessons/lesson-06-metodos/) | 🔗 Pendiente |
-| 07 | [`lesson-07-scanner`](lessons/lesson-07-scanner/) | 🔗 Pendiente |
-| 08 | [`lesson-08-clases-objetos`](lessons/lesson-08-clases-objetos/) | 🔗 Pendiente |
-| 09 | [`lesson-09-encapsulacion`](lessons/lesson-09-encapsulacion/) | 🔗 Pendiente |
-| 10 | [`lesson-10-proyecto-final`](lessons/lesson-10-proyecto-final/) | 🔗 Pendiente |
+| 01 | [`lesson-01-intro`](lessons/lesson-01-intro/) | [Ver en YouTube](https://youtu.be/f9UBns556O8) |
+| 02 | [`lesson-02-variables`](lessons/lesson-02-variables/) | [Ver en YouTube](https://youtu.be/1UwLN9UL6Ys) |
+| 03 | [`lesson-03-operadores`](lessons/lesson-03-operadores/) | [Ver en YouTube](https://youtu.be/r5D_MPz-eQ0) |
+| 04 | [`lesson-04-if-else`](lessons/lesson-04-if-else/) | [Ver en YouTube](https://youtu.be/fHbGM7QOj6w) |
+| 05 | [`lesson-05-bucles`](lessons/lesson-05-bucles/) | [Ver en YouTube](https://youtu.be/KNgEEadHqNo) |
+| 06 | [`lesson-06-metodos`](lessons/lesson-06-metodos/) | [Ver en YouTube](https://youtu.be/ZCcfhX2RsE0) |
+| 07 | [`lesson-07-scanner`](lessons/lesson-07-scanner/) | [Ver en YouTube](https://youtu.be/95yDCkvMk1A) |
+| 08 | [`lesson-08-clases-objetos`](lessons/lesson-08-clases-objetos/) | [Ver en YouTube](https://youtu.be/Fh1-v7lX85s) |
+| 09 | [`lesson-09-encapsulacion`](lessons/lesson-09-encapsulacion/) | [Ver en YouTube](https://youtu.be/YdSRAi8mRyg) |
+| 10 | [`lesson-10-proyecto-final`](lessons/lesson-10-proyecto-final/) | [Ver en YouTube](https://youtu.be/a4WN0YVYjRE) |
 
 ---
 
